@@ -9,5 +9,5 @@ The author is currently a college student and will often share course materials,
 
 博客会作为经验分享和知识总结的工具，欢迎访问:octocat: https://robotkkk.github.io/ 
 
-In addition, the blog will be used as a tool for experience sharing and knowledge summary. Welcome to visit:octocat: https://robotkkk.github.io/ 
+In addition, my blog based on github will be used as a tool for experience sharing and knowledge summary. Welcome to visit:octocat: https://robotkkk.github.io/ 
 
