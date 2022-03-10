@@ -12,7 +12,7 @@
 
 [![hky's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=robotkkk&theme=xcode)](https://github.com/robotkkk)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=robotkkk&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=robotkkk&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robotkkk)](https://git.io/streak-stats)
