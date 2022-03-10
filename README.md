@@ -13,8 +13,6 @@
 
 *If you don't manage chinese,don't worry! Better content and most code is recorded in GitHub in English. :star:*
 
-*I'm very excited to get your follow and star! :star:*
-
 *Wish you Follow the love, find the value, realize yourself and live a regretless life.:star:*
 
 
