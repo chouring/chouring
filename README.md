@@ -8,10 +8,6 @@ If you don't manage chinese,don't worry! Better content and most code is recorde
 
 Wish you follow your love, find your value, realize yourself and live a regretless life.:star:
 
-# *My contributions*
-[![hky's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=robotkkk&theme=xcode)](https://github.com/robotkkk)
-
-<img align="center" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=robotkkk" />
 
 
 
